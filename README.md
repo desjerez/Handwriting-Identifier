@@ -1,6 +1,6 @@
 # Handwriting AI: Writer Identification with a CNN
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/desjerez/HandwritingAI/blob/main/HandwritingAI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/desjerez/Handwriting-Identifier/blob/main/HandwritingAI.ipynb)
 
 A convolutional neural network (CNN) that identifies **which of 4 people wrote a handwriting sample**. Writer identification is the technique behind document forensics and signature-fraud checks: it asks whether a given person wrote a given page.
 
