@@ -32,7 +32,7 @@ The only mistakes: 2 of Destiny's 3 test samples were classified as Karolina's.
 
 ![Training and validation accuracy and loss by epoch](images/training_curves.png)
 
-Training accuracy reached 100% while validation accuracy levelled off at 80%, and validation loss rose after epoch 15. With only 100 images, the model starts to memorize the training set (overfitting); early stopping kept the best checkpoint.
+Training accuracy reached 100% while validation accuracy leveled off at 80%, and validation loss rose after epoch 15. With only 100 images, the model starts to memorize the training set (overfitting); early stopping kept the best checkpoint.
 
 ## Try it
 
